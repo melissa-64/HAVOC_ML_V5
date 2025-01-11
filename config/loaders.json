@@ -1,5 +1,4 @@
 {
-    "defaultListView": false,
     "loaders": [
         {
             "id": "BOSS_EXT+SPOOFER",
@@ -24,7 +23,7 @@
         },
         {
             "id": "V1_EXT_BO6",
-            "name": "V1_EXT_BO6",
+            "name": "EXODUS_EXT_BO6",
             "categoryId": "bo6",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/ExternalBo6.exe",
             "status": "online"
