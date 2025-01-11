@@ -76,6 +76,13 @@
             "categoryId": "bo6",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/Unlocker.zip",
             "status": "online"
+        },
+        {
+            "id": "RECOIL_REDUCER",
+            "name": "RECOIL_REDUCER",
+            "categoryId": "bo6",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/Elite_Recoil_Reducer.exe",
+            "status": "online"
         }
     ]
 }
