@@ -104,6 +104,13 @@
             "categoryId": "fortnite",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/FORTNITE_UNBRANDED.rar",
             "status": "online"
+        },
+        {
+            "id": "MARVEL_RIVALS_EXT",
+            "name": "MARVEL_RIVALS_EXT",
+            "categoryId": "others",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/MARVELRIVALS.exe",
+            "status": "online"
         }
     ]
 }
