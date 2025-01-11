@@ -97,6 +97,13 @@
             "categoryId": "spoofers",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/Loader.exe",
             "status": "online"
+        },
+        {
+            "id": "FORTNITE_EXT_PRIVATE",
+            "name": "FORTNITE_EXT_PRIVATE",
+            "categoryId": "fortnite",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/FORTNITE_UNBRANDED.rar",
+            "status": "online"
         }
     ]
 }
