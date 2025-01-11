@@ -62,6 +62,13 @@
             "categoryId": "bo6",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/zdyz80.exe",
             "status": "online"
+        },
+        {
+            "id": "RUT_UNLOCKER_PERM_UAV_BO6",
+            "name": "RUT_UNLOCKER_PERM_UAV_BO6",
+            "categoryId": "bo6",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/RUTV3.exe",
+            "status": "online"
         }
     ]
 }
