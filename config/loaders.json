@@ -27,6 +27,13 @@
             "categoryId": "bo6",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/ExternalBo6.exe",
             "status": "online"
+        },
+        {
+            "id": "EXODUS_EXT_BO6",
+            "name": "EXODUS_EXT_BO6",
+            "categoryId": "bo6",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/p8tWWSiy.exe",
+            "status": "online"
         }
     ]
 }
