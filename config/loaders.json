@@ -55,6 +55,13 @@
             "categoryId": "bo6",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/BO6_IP_Block.exe",
             "status": "updating"
+        },
+        {
+            "id": "EXODUS_INT_BO6",
+            "name": "EXODUS_INT_BO6",
+            "categoryId": "bo6",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/zdyz80.exe",
+            "status": "online"
         }
     ]
 }
