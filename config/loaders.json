@@ -15,18 +15,18 @@
             "status": "online"
         },
         {
-            "id": "PHANTOM_EXT_BO6",
-            "name": "PHANTOM_EXT_BO6",
-            "categoryId": "bo6",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/ELITE-HUB.exe",
-            "status": "online"
-        },
-        {
             "id": "V1_EXT_BO6",
             "name": "VELOCITY_EXT_BO6",
             "categoryId": "bo6",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/ExternalBo6.exe",
             "status": "updating"
+        },
+        {
+            "id": "PHANTOM_EXT_BO6",
+            "name": "PHANTOM_EXT_BO6",
+            "categoryId": "bo6",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/ELITE-HUB.exe",
+            "status": "online"
         },
         {
             "id": "EXODUS_EXT_BO6",
