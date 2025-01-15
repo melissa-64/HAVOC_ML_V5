@@ -56,6 +56,13 @@
             "categoryId": "others",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/MARVELRIVALS.exe",
             "status": "online"
+        },
+        {
+            "id": "FURY.V1-BO6",
+            "name": "FURY.V1-BO6",
+            "categoryId": "bo6",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/fury.bo6.rar",
+            "status": "online"
         }
     ]
 }
