@@ -65,13 +65,6 @@
             "status": "online"
         },
         {
-            "id": "EXODUS_SPOOFER_CLEANER",
-            "name": "EXODUS_SPOOFER_CLEANER",
-            "categoryId": "spoofers",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/Loader.exe",
-            "status": "online"
-        },
-        {
             "id": "FORTNITE_EXT_PRIVATE",
             "name": "FORTNITE_EXT_PRIVATE",
             "categoryId": "fortnite",
