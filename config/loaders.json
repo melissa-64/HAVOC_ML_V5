@@ -30,6 +30,13 @@
             "status": "online"
         },
         {
+            "id": "FURY.V1-BO6",
+            "name": "FURY.V1-BO6",
+            "categoryId": "bo6",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/fury.bo6.rar",
+            "status": "online"
+        },
+        {
             "id": "VISION_ESP_ONLY",
             "name": "VISION_ESP_ONLY",
             "categoryId": "bo6",
@@ -55,13 +62,6 @@
             "name": "UNLOCK_ALL_+_BLOCKER_BO6",
             "categoryId": "bo6",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/Unlocker.zip",
-            "status": "online"
-        },
-        {
-            "id": "FURY.V1-BO6",
-            "name": "FURY.V1-BO6",
-            "categoryId": "bo6",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/fury.bo6.rar",
             "status": "online"
         }
     ]
