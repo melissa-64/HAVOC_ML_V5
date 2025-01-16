@@ -37,13 +37,6 @@
             "status": "online"
         },
         {
-            "id": "VISION_ESP_ONLY",
-            "name": "VISION_ESP_ONLY",
-            "categoryId": "bo6",
-            "downloadUrl": "",
-            "status": "online"
-        },
-        {
             "id": "FORTNITE_EXT_PRIVATE",
             "name": "FORTNITE_EXT_PRIVATE",
             "categoryId": "fortnite",
