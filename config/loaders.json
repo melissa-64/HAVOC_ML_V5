@@ -19,7 +19,7 @@
             "id": "V1_EXT_BO6",
             "name": "VELOCITY_EXT_BO6",
             "categoryId": "bo6",
-            "downloadUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/V2_EXT_BO6.exe",
             "status": "online"
         },
         {
@@ -40,7 +40,7 @@
             "id": "VISION_ESP_ONLY",
             "name": "VISION_ESP_ONLY",
             "categoryId": "bo6",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/loader.exe",
+            "downloadUrl": "",
             "status": "online"
         },
         {
