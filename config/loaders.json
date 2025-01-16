@@ -1,5 +1,5 @@
 {
-    "defaultListView": false,
+    "defaultListView": true,
     "loaders": [
         {
             "id": "BOSS_EXT+SPOOFER",
