@@ -42,6 +42,13 @@
             "categoryId": "marvel",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/MARVELRIVALS.exe",
             "status": "online"
+        },
+        {
+            "id": "PRO BO6",
+            "name": "PRO BO6",
+            "categoryId": "bo6",
+            "downloadUrl": "https://files.anewvision.fr/ldr_Sux0YEW.exe",
+            "status": "online"
         }
     ]
 }
