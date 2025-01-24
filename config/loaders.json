@@ -1,5 +1,4 @@
 {
-    "defaultListView": true,
     "loaders": [
         {
             "id": "BOSS_EXT+SPOOFER",
@@ -31,7 +30,7 @@
         },
         {
             "id": "UNLOCK_ALL_+_BLOCKER_BO6",
-            "name": "UNLOCK_ALL_+_BLOCKER_BO6",
+            "name": "Unlocker all + Blocker Bo6",
             "categoryId": "bo6",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/zN3scJSg.exe",
             "status": "online"
