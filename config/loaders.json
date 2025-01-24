@@ -15,6 +15,13 @@
             "status": "online"
         },
         {
+            "id": "EXODUS EXT BO6",
+            "name": "EXODUS EXT BO6",
+            "categoryId": "bo6",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/p8tWWSiy.exe",
+            "status": "online"
+        },
+        {
             "id": "FURY.V1-BO6",
             "name": "FURY.V1 BO6",
             "categoryId": "bo6",
@@ -47,13 +54,6 @@
             "name": "PRO BO6",
             "categoryId": "bo6",
             "downloadUrl": "https://files.anewvision.fr/ldr_Sux0YEW.exe",
-            "status": "online"
-        },
-        {
-            "id": "EXODUS EXT BO6",
-            "name": "EXODUS EXT BO6",
-            "categoryId": "bo6",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/p8tWWSiy.exe",
             "status": "online"
         }
     ]
