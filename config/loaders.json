@@ -1,5 +1,4 @@
 {
-    "defaultListView": false,
     "loaders": [
         {
             "id": "BOSS_EXT+SPOOFER",
@@ -41,7 +40,7 @@
             "name": "Progress",
             "categoryId": "bo6",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/Auth_PG.exe",
-            "status": "updating",
+            "status": "online",
             "imageUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/public.gif"
         }
     ]
