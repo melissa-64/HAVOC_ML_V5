@@ -37,13 +37,6 @@
             "status": "online"
         },
         {
-            "id": "EXODUS INT BO6",
-            "name": "EXODUS INT BO6",
-            "categoryId": "bo6",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/bo6_internal.exe",
-            "status": "online"
-        },
-        {
             "id": "VISION BO6",
             "name": "VISION BO6",
             "categoryId": "bo6",
