@@ -78,27 +78,6 @@
             "categoryId": "bo6",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/K1INT.exe",
             "status": "online"
-        },
-        {
-            "id": "K1 ALL FIX",
-            "name": "K1 ALL FIX",
-            "categoryId": "others",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/k1_Allfix_v2.28z.bat",
-            "status": "online"
-        },
-        {
-            "id": "V2 FIX",
-            "name": "V2 FIX",
-            "categoryId": "others",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/V2fix.bat",
-            "status": "online"
-        },
-        {
-            "id": "KILL ALL ANTICHEATS",
-            "name": "KILL ALL ANTICHEATS",
-            "categoryId": "others",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/Stop_Anticheats.bat",
-            "status": "online"
         }
     ]
 }
