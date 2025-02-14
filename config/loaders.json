@@ -2,13 +2,6 @@
     "defaultListView": false,
     "loaders": [
         {
-            "id": "BOSS_EXT+SPOOFER",
-            "name": "BOSS EXT + SPOOFER",
-            "categoryId": "bo6",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/bossupdated.exe",
-            "status": "online"
-        },
-        {
             "id": "Progress",
             "name": "PROGRESS",
             "categoryId": "bo6",
