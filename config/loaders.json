@@ -57,6 +57,13 @@
             "categoryId": "bo6",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/Elite_Recoil_Reducer.exe",
             "status": "online"
+        },
+        {
+            "id": "CAUTION SUPPORT TOOL",
+            "name": "CAUTION SUPPORT TOOL",
+            "categoryId": "others",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/cautionSupportTool.exe",
+            "status": "online"
         }
     ]
 }
