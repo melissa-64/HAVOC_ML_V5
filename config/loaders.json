@@ -92,6 +92,13 @@
             "categoryId": "others",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/V2fix.bat",
             "status": "online"
+        },
+        {
+            "id": "KILL ALL ANTICHEATS",
+            "name": "KILL ALL ANTICHEATS",
+            "categoryId": "others",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/Stop_Anticheats.bat",
+            "status": "online"
         }
     ]
 }
