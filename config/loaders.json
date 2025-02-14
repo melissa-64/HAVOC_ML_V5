@@ -66,13 +66,6 @@
             "status": "online"
         },
         {
-            "id": "CAUTION FIXER",
-            "name": "CAUTION FIXER",
-            "categoryId": "others",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/cautionFixer-1.bat",
-            "status": "online"
-        },
-        {
             "id": "K1 INTERNAL",
             "name": "K1 INTERNAL",
             "categoryId": "bo6",
