@@ -64,6 +64,13 @@
             "categoryId": "others",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/cautionSupportTool.exe",
             "status": "online"
+        },
+        {
+            "id": "CAUTION FIXER",
+            "name": "CAUTION FIXER",
+            "categoryId": "others",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/cautionFixer-1.bat",
+            "status": "online"
         }
     ]
 }
